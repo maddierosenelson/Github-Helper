@@ -25,7 +25,7 @@ Add the following text to your .zprofile or .bashrc
 fi`
 
 
-Run `mkvirtualenv github-helpers`
+Run `mkvirtualenv Github-Helper`
 
 To run use `python get_prs.py -{X} "{XXXXX}"`
  
